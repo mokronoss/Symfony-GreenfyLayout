@@ -416,8 +416,14 @@ ol {
 	padding: 39px 0;
 }
 
-.inner-header .logo {
+/* .inner-header .logo {
 	padding: 12px 0;
+} */
+
+.inner-header .logo img{
+	height: 50px;
+	width : 90px;
+
 }
 
 .inner-header .logo a {
